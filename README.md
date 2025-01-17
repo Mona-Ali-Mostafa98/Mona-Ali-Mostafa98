@@ -1,9 +1,5 @@
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzI0c3U2NHdkanQ4djdrdmh3N3Nyanp2OGlhb2VoeWU5NGg5MGk4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MPxg9U887PS0B8XT4J/giphy.gif" width="200" height="200" style="border-radius: 50%"/>
-</div>
-
 <h1 align="center">
-  I'm Mona Ali Mostafa
+  Hi, I'm Mona Ali Mostafa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <div align="center">
@@ -15,7 +11,9 @@
   </a>
 </div>
 
-- 🌱 I'm a <strong>Teaching Assistant</strong> at the <a href="https://iti.gov.eg/iti/home" alt="Information Technology Institute"><strong>Information Technology Institute ( ITI )</strong></a> .
+---
+
+- 👩 I'm a <strong>Teaching Assistant</strong> at the <a href="https://iti.gov.eg/iti/home" alt="Information Technology Institute"><strong>Information Technology Institute ( ITI )</strong></a> .
 - 💬 Also, I'm a <strong>Freelancer PHP Full Stack Developer</strong>.
 
 ---
