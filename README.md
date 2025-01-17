@@ -20,29 +20,29 @@
 
 ---
 
-### 👩 FrontEnd Technologies:
+### 💻 FrontEnd Technologies:
 [![FrontEnd Technologies](https://skillicons.dev/icons?i=html,css,js,bootstrap,angular,react,vue,pinia,vite)](https://skillicons.dev)
 
-### 👩 Backend Technologies:
-[![Backend Technologies](https://skillicons.dev/icons?i=php,laravel,python,django,flask,nodejs,express,java,ruby,rails)](https://skillicons.dev)
+### 💻 Backend Technologies:
+[![Backend Technologies](https://skillicons.dev/icons?i=php,laravel,python,django,nodejs,express,java,ruby,rails)](https://skillicons.dev)
 
-### 👩 Databases:
+### 💻 Databases:
 [![Databases](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb)](https://skillicons.dev)
 
-### 👩 Operationg Systems:
+### 💻 Operating Systems:
 [![Operationg Systems](https://skillicons.dev/icons?i=windows,linux,redhat,ubuntu)](https://skillicons.dev)
 
-### 👩 Version Control:
+### 💻 Version Control:
 [![Version Control](https://skillicons.dev/icons?i=git,github,bitbucket,gitlab)](https://skillicons.dev)
 
-### 👩 Editors:
+### 💻 Editors:
 [![Editors](https://skillicons.dev/icons?i=vscode,phpstorm,pycharm,sublime,atom)](https://skillicons.dev)
 
 
-### 👩 Other:
+### 💻 Other:
 [![Other](https://skillicons.dev/icons?i=postman,docker,nginx,redis,c)](https://skillicons.dev)
 
-### 👩  My GitHub Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mona-Ali-Mostafa98&theme=dark&background=000000)](https://git.io/streak-stats)
+### 👩 My GitHub Stats:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user="Mona-Ali-Mostafa98"&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mona-Ali-Mostafa98&layout=compact&langs_count=6&include_all_commits=true)](https://github.com/Mona-Ali-Mostafa98/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mona-Ali-Mostafa98&show_icons=true&theme=radical)
