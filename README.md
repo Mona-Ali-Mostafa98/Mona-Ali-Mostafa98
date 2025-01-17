@@ -1,12 +1,12 @@
-<div style="margin-top: 20px; margin-bottom: 0; text-align: center">
+<div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzI0c3U2NHdkanQ4djdrdmh3N3Nyanp2OGlhb2VoeWU5NGg5MGk4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MPxg9U887PS0B8XT4J/giphy.gif" width="200" height="200" style="border-radius: 50%"/>
 </div>
 
-<h1 style="text-align: center; margin-top: 0">
+<h1 align="center">
   I'm Mona Ali Mostafa
 </h1>
 
-<div style="text-align: center;">
+<div align="center">
   <a href="https://www.linkedin.com/in/mona-ali-mostafa/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
@@ -24,10 +24,10 @@
 [![FrontEnd Technologies](https://skillicons.dev/icons?i=html,css,js,bootstrap,angular,react,vue,pinia,vite)](https://skillicons.dev)
 
 ### 👩 Backend Technologies:
-[![Backend Technologies](https://skillicons.dev/icons?i=php,laravel,python,django,flask,java,ruby,rails)](https://skillicons.dev)
+[![Backend Technologies](https://skillicons.dev/icons?i=php,laravel,python,django,flask,nodejs,express,java,ruby,rails)](https://skillicons.dev)
 
 ### 👩 Databases:
-[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb)](https://skillicons.dev)
 
 ### 👩 Operationg Systems:
 [![Operationg Systems](https://skillicons.dev/icons?i=windows,linux,redhat,ubuntu)](https://skillicons.dev)
